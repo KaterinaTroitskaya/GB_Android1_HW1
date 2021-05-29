@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">KaterinaL1HW</string>
+    <string name="welcome_to_my_first_app">Welcome to my first app</string>
+    <string name="on">On</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="off">Off</string>
+    <string name="turn_on">Turn On</string>
+    <string name="ASwitch">ASwitch</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+    <string name="Button">Кнопка</string>
 </resources>
